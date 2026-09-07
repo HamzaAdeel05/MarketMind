@@ -1,3 +1,5 @@
+Link:- https://marketmind-by-hamza.streamlit.app/
+
 # MarketMind AI — Autonomous Business Research Agent
 
 A from-scratch Python implementation of the MarketMind capstone. It implements request analysis, research planning, a bounded plan–act–observe loop, strict tool dispatch, evidence provenance, comparison, synthesis, automated QC, a bounded repair loop, human approval, run logging, and evaluation scaffolding.
