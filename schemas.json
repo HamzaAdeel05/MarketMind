@@ -1,0 +1,5 @@
+{
+  "research_plan": {"type":"object","required":["entity_type","segment","geography","time_horizon","deliverable_type","assumptions","ambiguities","objectives"]},
+  "evidence_record": {"type":"object","required":["evidence_id","question_id","claim","claim_type","source_ref","source_kind","source_detail","credibility","recency","corroboration","confidence"]},
+  "final_report": {"type":"object","required":["report_id","generated_at","model_versions","run_cost","research_objective","executive_summary","market_overview","key_trends","competitor_analysis","opportunities","risks","evidence_appendix","recommendations","confidence_level","confidence_rationale","limitations_and_gaps","sources","approval"]}
+}
